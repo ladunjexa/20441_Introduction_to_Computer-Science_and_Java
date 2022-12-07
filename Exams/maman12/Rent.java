@@ -207,7 +207,7 @@ public class Rent {
 	 * current car of the rent, upgrade it and return the upgrade additional cost,
 	 * otherwise - don't upgrade
 	 * 
-	 * @param car the car to upgrade to
+	 * @param newCar the car to upgrade to
 	 * @return the upgrade cost
 	 */
 	public int upgrade(Car newCar) {
