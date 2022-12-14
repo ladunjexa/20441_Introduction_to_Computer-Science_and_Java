@@ -71,6 +71,8 @@ Here is the folder structure.
 ```
 20441_Introduction_to_Computer-Science_and_Java/
 |- Exams/
+  |-- Maman{i}/
+  |-- Mamah{i}/
 |- Units/
 |- Solutions/
   |-- Unit{i}/
