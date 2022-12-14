@@ -80,7 +80,7 @@ Now, lets dive into the the contents of the folders and the format that determin
 
 ### Exams
 
-`mamah{i}.pdf` - `maman{i}.pdf`
+`mamah{i}/` - `maman{i}/`
 
 This folder houses all the solutions for computing assignments and lecturer assignments,
 some of the assignments have testers adapted for end-to-end testing.
