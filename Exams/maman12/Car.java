@@ -149,7 +149,7 @@ public class Car {
 	 * @return true if the cars are the same, otherwise false
 	 */
 	public boolean equals(Car other) {
-		return _type == other._type && _brand == other._brand && _isManual == other._isManual;
+		return _type == other._type && _brand.equals(other._brand) && _isManual == other._isManual;
 		// Comparing the type, brand and gear of the current object ('this') to the
 		// 'other' object received as a parameter
 	}
