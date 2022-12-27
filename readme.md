@@ -287,7 +287,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-shield]: https://img.shields.io/github/license/ladunjexa/20441_Introduction_to_Computer-Science_and_Java.svg?style=for-the-badge
 [license-url]: https://github.com/ladunjexa/20441_Introduction_to_Computer-Science_and_Java/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/lironabutbul6
+[linkedin-url]: https://linkedin.com/in/lironabutbul
 [product-screenshot]: images/screenshot.png
 [Assembly]: https://img.shields.io/badge/Assembly-20232A?style=for-the-badge&logo=assembly&logoColor=61DAFB
 [Assembly-url]: https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm
